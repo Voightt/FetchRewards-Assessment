@@ -17,7 +17,7 @@ build.gradle - gradle file to use for loading dependencies.
 
 hiring.json - file provided to me for the assignment.
 
-*DISCLAIMER - I could not successfully do everything that was asked for me to do from the assessment, but I did display the id, listId, and Name to the application. I thank you for your time in reviewing this and appreciate allowing me to take this assessment!
+*DISCLAIMER - I could not successfully do everything that was asked for me to do from the assessment, but I did display the id, listId, and names to the application. I thank you for your time in reviewing this and appreciate allowing me to take this assessment!
 
 Sincerely,
 Kyle Voight
